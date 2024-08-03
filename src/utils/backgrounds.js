@@ -34,12 +34,12 @@ const backgrounds = {
       night: 'img/fognigth.jpg'
     },
     Extreme: {
-      day: 'img/extreme.jpg', // Fondo genérico para condiciones extremas
-      night: 'img/extreme.jpg' // Puedes usar el mismo fondo o uno diferente
+      day: 'img/extreme.jpg', 
+      night: 'img/extreme.jpg' 
     },
     Additional: {
-      day: 'img/additional.jpg', // Fondo genérico para condiciones adicionales
-      night: 'img/additional.jpg' // Puedes usar el mismo fondo o uno diferente
+      day: 'img/additional.jpg', 
+      night: 'img/additional.jpg' 
     }
 
 
