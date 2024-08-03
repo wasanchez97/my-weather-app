@@ -7,9 +7,10 @@
     height: 70%;
    margin-right: 2rem;
     margin-left: 2rem;
-    /* Asegura que ocupe toda la altura de la pantalla */
+     border-radius: 20px;
+
     
-    color: rgba(49, 49, 49, 0.79); /* Texto blanco para visibilidad sobre imágenes */
+    color: rgba(49, 49, 49, 0.79); 
     padding: 20px;
   }
   
